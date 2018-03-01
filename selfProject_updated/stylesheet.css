@@ -1,0 +1,78 @@
+body{
+			background-image: url("background.jpg");
+			margin: 0 ;
+			padding: 0 ;
+			background-size: cover;
+		}
+		h1 {
+			background-color: black;
+			color: white;
+			margin-top: -8px;
+			margin-left: -2px;
+			margin-right: 3px;
+			margin-bottom: 5px;
+		}
+		h3{
+			color: white;
+			/*margin-left: 5px;*/
+			float: left;
+		}
+		
+		input[type=text] {
+			float: right;
+			width: 100px;
+			padding: 12px 20px;
+			margin-right: 8px;
+			border: 1px solid white;
+			outline: 2px solid gray;
+		}
+		.login{
+			background-color: #E7E4E4;
+			opacity: 50%;
+			/*padding: 12px 70px;*/
+			padding-left: 8px;
+			padding-right: 80px;
+			padding-bottom: 5px;
+			padding-top: 3px;
+			/*margin-top: -2px;*/
+			float: right;
+			text-align: center;
+		}
+		label#first{
+			margin-left:-70px;
+		}
+		label#last{
+			margin-left: 60px;
+		}
+		button#button1{
+			position: absolute;
+			top: 13.8%;
+			right: 2%;
+			padding: 5px 15px;
+			box-shadow: 2px 2px;
+		}
+		.nav{
+			background-color:#C6C5FF;
+			width:100%;
+			height:60px;
+
+		}
+		#logo{
+			position:relative;
+			left:15px;
+			top:10px;
+			color:black;
+			border:4px solid red;
+			width:40px;
+			text-align: center;
+
+		}
+		.navcontainer{
+			height:20px;
+			width:100%;
+		}
+		h5#fp{
+			float: right;
+			margin-bottom: -4px;
+			margin-top: 2px;
+		}
